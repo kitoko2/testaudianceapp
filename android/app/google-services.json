@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331087445431",
+    "project_id": "testaudienceapp",
+    "storage_bucket": "testaudienceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331087445431:android:37424c8007dd36bbd9fc32",
+        "android_client_info": {
+          "package_name": "com.example.testaudienceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331087445431-mb9kfo8hv8vfdu1q81saltp59q59q0qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDa14Ek9NJAIH7hR4BUE1Hwn9oIUcPE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331087445431-mb9kfo8hv8vfdu1q81saltp59q59q0qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
